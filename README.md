@@ -1,1 +1,2 @@
-The data provides information about subscribers. Our objective  is to identify subscribers with  probabilities of nonpayment in 30,60 and 90 days respectively.
+The data provides information about subscribers. Our objective  was to identify subscribers with  probabilities of nonpayment in 30,60 and 90 days respectively.
+Using IBM SPSS Modeler two different: statistical and artifical intelligence algorithms tasks were  achived by using: Business Understanding, Data Understanding,Data Manipulation,Visualization, Summary Analytics, Modeling,Model Evaluatiob abd Deployment
